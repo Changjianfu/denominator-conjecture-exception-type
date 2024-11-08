@@ -1,4 +1,4 @@
 # denominator-conjecture-exception-type
 
 We verify denominator conejecture for cluster algebras of exceptional types.
-Here is the source for the type $F_4$ and $E_8$.
+Due to the algorithm, it suffices to verify it for type $F_4$ and $E_8$.
